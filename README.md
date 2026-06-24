@@ -375,15 +375,3 @@ SmartWasteAI contributes to:
 * AWS EC2
 * Azure AI Services
 * Google Cloud Platform
-
----
-
-# 📜 License
-
-MIT License
-
----
-
-# 👨‍💻 Author
-
-AI-powered Smart Waste Segregation System built using YOLOv8, Computer Vision, and Sustainable AI technologies.
