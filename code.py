@@ -1,7 +1,3 @@
-# ♻️ SmartWasteAI - Advanced Waste Segregation System (YOLOv8x)
-# Uses the YOLOv8x pretrained model trained on millions of images
-# No Streamlit, fully works in Google Colab
-
 # --- Step 1: Install libraries ---
 !pip install ultralytics pillow matplotlib opencv-python
 
